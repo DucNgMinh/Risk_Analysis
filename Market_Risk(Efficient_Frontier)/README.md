@@ -1,4 +1,4 @@
-# Nguyen Minh Duc - 11204838 (Efficient_Portfolio_Frontier_Projects)
+# Nguyen Minh Duc - 11204838 (Efficient_Portfolio_Frontier_Project)
 
 ### This is the notebook for individual midterm Credit Risk project
 
