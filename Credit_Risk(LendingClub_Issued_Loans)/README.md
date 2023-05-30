@@ -1,4 +1,4 @@
-# Nguyen Minh Duc - 11204838 (LendingClub_Issued_Loans_Projects
+# Nguyen Minh Duc - 11204838 (LendingClub_Issued_Loans_Project)
 
 ### This is the notebook for individual midterm Credit Risk project 
 
